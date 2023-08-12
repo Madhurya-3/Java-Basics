@@ -1,5 +1,5 @@
 //Demonstrating switch case
-
+ 
 import java.util.Scanner;
 public class Switchcase
 {
